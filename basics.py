@@ -1,5 +1,6 @@
 # Variables are dynamically typed
 
+
 n = 0 
 print(n) # 0 
 
